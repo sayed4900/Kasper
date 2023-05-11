@@ -1,4 +1,8 @@
 
+
+html{
+    scroll-behavior: smooth;
+}
 :root{
     --main-color:#19c8fa;
     --second-color:rgb(13,117,145,70%);
